@@ -1,0 +1,12 @@
+{
+  "name": "leetcode-22-generate-parentheses",
+  "version": "1.0.0",
+  "description": "22. Generate Parentheses",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
